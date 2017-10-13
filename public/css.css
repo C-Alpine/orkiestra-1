@@ -1,0 +1,45 @@
+body{
+	  background: -webkit-linear-gradient(left, #990033, #660099);
+	  font-family: 'Muli', sans-serif;
+}
+/*alle-from*/
+	.all-from{
+	border: 1px solid #1f1f1f;
+		border-radius: 2rem;
+	text-align: center;
+	color:#262626;
+	margin-top: 15%;
+	}
+	#from-style{
+		padding-top:2rem;
+		padding-bottom:2rem;
+	}
+	/*input*/
+	.input-from{
+		border-radius: 1rem;
+		margin-top: 1rem;
+		width: 15rem;
+		height: 2rem;
+		border: 1px;
+		display: flex;
+		text-align: center;
+		margin: 0 auto;
+		margin-bottom: 0px;
+		margin-bottom: 1rem;
+	}
+	.button{
+		border-radius: 2rem;
+		margin-top: 1rem;
+		width: 10rem;
+		height: 2rem;
+		border: 1px solid #fff;
+	}
+	.bottom:hover{
+		 background: -webkit-linear-gradient(left, #990033, #660099)
+	}
+	/*fook*/
+	#lisek{
+	}
+	.fooks{
+		height:10rem;
+	}
