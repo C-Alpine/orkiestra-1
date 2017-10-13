@@ -1,4 +1,3 @@
-
 <?php
 
 /*
@@ -12,7 +11,8 @@
 |
 */
 
-Route::get('/', function () {
+Route::get('main', function () {
     echo "Main";
 });
+
 
